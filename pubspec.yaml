@@ -21,8 +21,8 @@ environment:
   sdk: '>=3.12.0 <4.0.0'
 
 dependencies:
-  _fe_analyzer_shared: '>=98.0.0 <106.0.0'
-  analyzer: '>=10.0.0 <15.0.0'
+  _fe_analyzer_shared: ^109.0.0
+  analyzer: ^14.5.0
   args: ^2.7.0
   xxh3: ^1.2.0
   path: ^1.9.1
